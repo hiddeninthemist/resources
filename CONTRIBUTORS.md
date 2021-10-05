@@ -225,3 +225,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@deshankoswatte](https://github.com/deshankoswatte)
 - [@pyxmaster](https://github.com/pyxmaster)
 - [@vitorquadros](https://github.com/vitorquadros)
+- [@hiddeninthemist](https://github.com/hiddeninthemist)
